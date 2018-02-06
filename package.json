@@ -1,0 +1,22 @@
+{
+  "name": "react-final-form-field-level-validation-example",
+  "description": "This example demonstrates how to provide field-level validation functions and display errors using child render functions.",
+  "version": "0.0.0",
+  "dependencies": {
+    "styled-components": "2.2.3",
+    "react-final-form": "1.1.1",
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "final-form": "1.2.1",
+    "es6-symbol": "3.1.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
